@@ -11,7 +11,7 @@
 
       About me 
             - I am a passionated for technologies, exploring the world through software engineering and cybersecurity lenses. 
-            - with a mission to learn and implement new approaches and skills in this ever-evolving tech universe. 
+            - Here with a mission to learn and implement new approaches and skills in this ever-evolving tech universe. 
             - Journey driven by learning, passion, curiosity and more. 
             </br>
 </head>
@@ -20,7 +20,7 @@
       Fun facts
                ⚽️ I play soccer for fun
                🕹️ Currently learning Angular
-               🏁 Enjoying building frameworks and implement new approaches to tech
+               🏁 Enjoying building frameworks and Apps
                📩 Feel free to reach out to me via my social media
 </body>
 </html>
