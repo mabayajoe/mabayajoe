@@ -9,15 +9,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-      About me {
-            I am a passionated for technologies, exploring the world through software engineering and cybersecurity lenses 
-            with a mission to learn and implement new approaches and skills in this ever-evolving tech universe. 
-            Journey driven by learning, passion, curiosity and more.
-        }
+      About me 
+            - I am a passionated for technologies, exploring the world through software engineering and cybersecurity lenses. 
+            - with a mission to learn and implement new approaches and skills in this ever-evolving tech universe. 
+            - Journey driven by learning, passion, curiosity and more. 
+            </br>
 </head>
 <body>
 
-      Fun facts{
+      Fun facts
                ⚽️ I play soccer for fun
                🕹️ Currently learning Angular
                🏁 Enjoying building frameworks and implement new approaches to tech
