@@ -1,4 +1,5 @@
-![](https://media.licdn.com/dms/image/D5616AQGMOmVDUz-v4g/profile-displaybackgroundimage-shrink_350_1400/0/1701560060411?e=1707350400&v=beta&t=JMzhE3Pdae23Fuuil-JB934thO-nXMzw26gYRS391Yw)
+![](https://media.licdn.com/dms/image/D5616AQHHQql_NynZ_Q/profile-displaybackgroundimage-shrink_350_1400/0/1701648428937?e=1707350400&v=beta&t=FQDSRuzOCBFwEA2dXEZx6ppEIXJwmpBYQ05DphCTB7Q)
+
 
  --------------------------
 <h1 align="center" font-family="Helvetica">Hi 👋,  I'm Joseph Mabaya</h1>
