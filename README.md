@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
       About me 
-            - AWS Cloud Engineer with over 5 years of experience in designing and deploying scalable, secure, and cost-
+            AWS Cloud Engineer with over 5 years of experience in designing and deploying scalable, secure, and cost-
             efficient cloud solutions. Proficient in automating infrastructure using Infrastructure as Code (IaC), implementing
             DevOps best practices, and optimizing cloud environments for performance and security. Adept at leveraging tools
             like Terraform, Docker, and CI/CD pipelines to deliver high-impact results aligned with business goals
