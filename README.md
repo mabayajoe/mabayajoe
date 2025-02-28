@@ -11,16 +11,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
       About me 
-            - I am a passionated for technologies, exploring the world through software engineering and cybersecurity lenses. 
-            - Here with a mission to learn and implement new approaches and skills in this ever-evolving tech universe. 
-            - Journey driven by learning, passion, curiosity and more. 
+            - AWS Cloud Engineer with over 5 years of experience in designing and deploying scalable, secure, and cost-
+            efficient cloud solutions. Proficient in automating infrastructure using Infrastructure as Code (IaC), implementing
+            DevOps best practices, and optimizing cloud environments for performance and security. Adept at leveraging tools
+            like Terraform, Docker, and CI/CD pipelines to deliver high-impact results aligned with business goals
             </br>
 </head>
 <body>
 
       Fun facts
-               ⚽️ I play soccer for fun
-               🕹️ Currently learning Angular
+               ⚽️ I play soccer, pickleball, snowboarding
+               🕹️ Currently learning 
                🏁 Enjoying building frameworks and Apps
                📩 Feel free to reach out to me via my social media
 </body>
@@ -39,6 +40,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
