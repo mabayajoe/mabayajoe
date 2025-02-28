@@ -21,7 +21,7 @@
 
       Fun facts
                ⚽️ I play soccer, pickleball, snowboarding
-               🕹️ Currently learning 
+               🕹️ Currently learning Amazon Macie
                🏁 Enjoying building frameworks and Apps
                📩 Feel free to reach out to me via my social media
 </body>
