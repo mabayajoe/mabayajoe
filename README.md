@@ -30,7 +30,7 @@
 
 ## 🌍 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joe_mabaya) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joemabaya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://xlinkedin.com/in/jmabaya)
 [![](https://visitcount.itsvg.in/api?id=mabayajoe&icon=1color=5)](https://visitcount.itsvg.in)
 ---
 
